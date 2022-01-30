@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lumatozer" alt="lumatozer" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dpl46u3" target="blank"><img src="https://img.shields.io/twitter/follow/dpl46u3?logo=twitter&style=for-the-badge" alt="dpl46u3" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/dpl46u3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dpl46u3" /></a> </p>
 
 - 🔭 I’m currently working at [Coding Jr](codingjr)
 
