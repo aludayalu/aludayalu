@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lumatozer" alt="lumatozer" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/dpl46u3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dpl46u3" /></a> </p>
-
 - 🔭 I’m currently working at [Coding Jr](codingjr)
 
 - 🌱 I’m currently learning **Cpp**
@@ -40,5 +38,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumatozer&show_icons=true&locale=en" alt="lumatozer" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumatozer&" alt="lumatozer" /></p>
