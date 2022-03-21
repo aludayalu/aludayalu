@@ -36,6 +36,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lumatozer&show_icons=true&locale=en&layout=compact" alt="lumatozer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumatozer&show_icons=true&locale=en" alt="lumatozer" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lumatozer&show_icons=true&locale=en" alt="lumatozer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumatozer&" alt="lumatozer" /></p>
