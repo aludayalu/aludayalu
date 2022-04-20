@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lumatozer](https://github.com/lumatozer)
 
-- 📝 I am studying at [DPS RK Puram, Delhi](DPS RK Puram, Delhi)
+- 📝 I am studying at DPS RK Puram, Delhi
 
 - 💬 Ask me about **Python Java Pentesting Blockchains**
 
