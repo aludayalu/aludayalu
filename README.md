@@ -114,14 +114,15 @@
 
 
 ## Github Stats  
+  <p></p>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aludayalu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<p></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aludayalu&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
 <br/>  
-
+<p></p>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31zx2gnz55qjxeo4d4vsb7e5in5m&cover_image=true&theme=default" /></div>  
 
 <br/>  
