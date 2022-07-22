@@ -114,7 +114,7 @@
 
 
 ## Github Stats  
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=aludayaly&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=dracula" alt="Aarav's Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aludayalu&layout=compact&hide_border=true&theme=dracula" alt="Aarav's Top Languages">
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=aludayalu&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=dracula" alt="Aarav's Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aludayalu&layout=compact&hide_border=true&theme=dracula" alt="Aarav's Top Languages">
 
 <br/>  
 
