@@ -19,7 +19,7 @@
   
 
 <br/>  
-<div class="center">
+<div align="center">
 <a href="https://app.daily.dev/aludayalu"><img src="https://api.daily.dev/devcards/efec68eceb5f4dca92271047090e8420.png?r=adl" width="400" alt="Aarav Dayal's Dev Card"/></a></div>
 
 ## My Skill Set  
