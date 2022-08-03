@@ -6,7 +6,7 @@
 ### <div align="center">I'm Aarav, a part-time full-stack developer currently studying at D.P.S R.K. Puram👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [LTZ-Chain](https://github.com/lumatozer/LTZ-Chain)  
+- 🔭 I’m currently working on LTZ-Chain  
   
 
 - 🌱 I’m currently learning Smart Contracts  
