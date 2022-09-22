@@ -18,9 +18,7 @@
 - ⚡ Fun fact: I end up talking about blockchains all the time   
   
 
-<br/>  
-<div align="center">
-<a href="https://app.daily.dev/aludayalu"><img src="https://api.daily.dev/devcards/efec68eceb5f4dca92271047090e8420.png?r=adl" width="400" alt="Aarav Dayal's Dev Card"/></a></div>
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
