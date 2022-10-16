@@ -37,6 +37,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aludayalu&icon=0&color=0)](https://visitcount.itsvg.in)
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31zx2gnz55qjxeo4d4vsb7e5in5m&cover_image=true&theme=default" /></div>  
+https://images-ext-1.discordapp.net/external/hbI2s-GuIutjSxxZuCIhV3b-_PAafQ9pYpoGdYmVBM0/https/media.tenor.com/1iGfiFnv02YAAAPo/blockchain-youre-going.mp4
 
 
