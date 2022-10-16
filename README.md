@@ -32,7 +32,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Whenevr i find a good feature
+### 😂 Whenever i find a good feature
 ![](https://github.com/aludayalu/aludayalu/blob/main/blockchain-youre-going.gif)
 
 ---
