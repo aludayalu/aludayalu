@@ -37,6 +37,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aludayalu&icon=0&color=0)](https://visitcount.itsvg.in)
-![Alt Text](https://images-ext-1.discordapp.net/external/hbI2s-GuIutjSxxZuCIhV3b-_PAafQ9pYpoGdYmVBM0/https/media.tenor.com/1iGfiFnv02YAAAPo/blockchain-youre-going.mp4)
+![](![Alt Text](https://images-ext-1.discordapp.net/external/hbI2s-GuIutjSxxZuCIhV3b-_PAafQ9pYpoGdYmVBM0/https/media.tenor.com/1iGfiFnv02YAAAPo/blockchain-youre-going.mp4))
 
 
