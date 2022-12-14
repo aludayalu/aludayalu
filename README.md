@@ -1,4 +1,4 @@
-### <div align="center">I'm Aarav, a part-time full-stack developer currently studying at D.P.S R.K. Puram👨‍💻</div>  
+### <div align="center">I'm Aarav, a part-time full-stack developer. 💻</div>  
   
 
 - 🔭 I’m currently working on LTZ-Chain  
