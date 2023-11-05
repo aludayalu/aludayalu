@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on LTZ-Chain  
   
 
-- 🌱 I’m currently learning Smart Contracts  
+- 🌱 I’m currently learning Golang 
   
 
 - ❓ Ask me about anything related to Blockchains and CyberSecurity  
