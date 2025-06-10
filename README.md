@@ -1,16 +1,17 @@
-### <div align="center">I'm Aarav, a part-time full-stack developer. 💻</div>  
+### <div align="center">I'm Aarav, a hardcore full-stack developer. 🟢</div>  
   
 
-- 🔭 I’m currently working on LTZ-Chain  
+- 🔭 I’m currently working on Coherent Education
   
 
-- 🌱 I’m currently learning Golang 
+- 🌱 I’m currently learning about profile guided optimizations' implementations
   
 
-- ❓ Ask me about anything related to Blockchains and CyberSecurity  
+- ❓ Ask me about anything related to Blockchains, Optimizations or compilers  
   
 
-- ⚡ Fun fact: I end up talking about blockchains all the time   
+
+- ⚡ Fun fact: I end up talking about optimizations all the time   
   
 
 <br/>
