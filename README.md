@@ -1,7 +1,7 @@
 ### <div align="center">I'm Aarav, a hardcore full-stack developer. 🟢</div>  
   
 
-- 🔭 I’m currently working on Coherent Education
+- 🔭 I’m currently working on LTZ-Chain
   
 
 - 🌱 I’m currently learning about profile guided optimizations' implementations
