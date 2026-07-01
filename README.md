@@ -16,17 +16,9 @@ I personally believe that infrastructure should be abstractable and composable i
 2. Vitality - A personal language I want to evolve into an optimizer's first language.
 3. Monster - A custom web framework with compiled reactive signals.
 
-#### Favourite Programmers
-
-> John Carmack - Doom's Hyper Specific Optimization
-
-> Fabrice Bellard - QEMU & FFMPEG
-
-> Chris Lattner - LLVM
-
 #### Socials
 
-[Website](https://aaravdayal.com) &ensp; [X](https://x.com/aaravdayal) &ensp; [Email](mailto:aarav@dayal.org) &ensp; [Discord](https://discord.gg/KMa98gEar7)
+[X](https://x.com/aaravdayal) &ensp; [Email](mailto:aarav@dayal.org) &ensp; [Website](https://aaravdayal.com)  &ensp; [Discord](https://discord.gg/KMa98gEar7)
 
 #### Putting this to keep myself on pace
 
