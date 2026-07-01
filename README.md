@@ -2,7 +2,11 @@
 
 I work on distributed systems, infrastructure solutions, compilers and editors.
 
-As of now I am working on blueprints for infrastructure.
+Thriving to make the most performant foundational infrastructure for the world.
+
+I love throughput, security and latency sensitive problems.
+
+As of now I am working on blueprints for infrastructure at [Lumatozer](https://lumatozer.com/).
 
 I personally believe that infrastructure should be abstractable and composable in really powerful ways.
 
@@ -12,10 +16,17 @@ I personally believe that infrastructure should be abstractable and composable i
 2. Vitality - A personal language I want to evolve into an optimizer's first language.
 3. Monster - A custom web framework with compiled reactive signals.
 
+#### Favourite Programmers
+
+> John Carmack - Doom's Hyper Specific Optimization
+
+> Fabrice Bellard - QEMU & FFMPEG
+
+> Chris Lattner - LLVM
+
 #### Socials
 
-[X](https://x.com/aaravdayal) &ensp; [Email](mailto:aarav@dayal.org) &ensp; [Discord](https://discord.gg/KMa98gEar7)
-
+[Website](https://aaravdayal.com) &ensp; [X](https://x.com/aaravdayal) &ensp; [Email](mailto:aarav@dayal.org) &ensp; [Discord](https://discord.gg/KMa98gEar7)
 
 #### Putting this to keep myself on pace
 
