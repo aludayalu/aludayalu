@@ -1,105 +1,27 @@
-<h1 align="center">Aarav Dayal</h1>
+### Aarav Dayal · Infrastructure Engineer
 
+I work on distributed systems, infrastructure solutions, compilers and editors.
 
+Thriving to make the most performant foundational infrastructure for the world.
 
-<p align="center">
+I love throughput, security and latency sensitive problems.
 
-  Infrastructure Engineer
+As of now I am working on blueprints for infrastructure at [Lumatozer](https://lumatozer.com/).
 
-</p>
+I personally believe that infrastructure should be abstractable and composable in really powerful ways.
 
+#### I have previously worked on
 
+1. LTZ-Chain - high performance blockchain solution.
+2. Vitality - A personal language I want to evolve into an optimizer's first language.
+3. Monster - A custom web framework with compiled reactive signals.
 
-<img
+#### Socials
 
-  align="right"
+[X](https://x.com/aaravdayal) &ensp; [Email](mailto:aarav@dayal.org) &ensp; [Website](https://aaravdayal.com) &ensp; [Discord](https://discord.gg/KMa98gEar7)
 
-  src="./pfp.jpeg"
+#### Putting this to keep myself on pace
 
-  width="260"
+![](https://github-readme-streak-stats.herokuapp.com/?user=aludayalu&theme=nightowl&hide_border=false)
 
-  alt="Aarav Dayal"
-
-/>
-
-
-
-<h2>About Me</h2>
-
-
-
-<ul>
-
-  <li>I work on distributed systems, infrastructure solutions, compilers and editors.</li>
-
-  <li>Thriving to make the most performant foundational infrastructure for the world.</li>
-
-  <li>I love throughput, security and latency sensitive problems.</li>
-
-  <li>
-
-    As of now I am working on blueprints for infrastructure at
-
-    <a href="https://lumatozer.com/">Lumatozer</a>.
-
-  </li>
-
-  <li>
-
-    I personally believe that infrastructure should be abstractable and composable in really powerful ways.
-
-  </li>
-
-</ul>
-
-
-
-<br clear="right"/>
-
-
-
-<h2>I have previously worked on</h2>
-
-
-
-<ul>
-
-  <li><strong>LTZ-Chain</strong> — high performance blockchain solution.</li>
-
-  <li><strong>Vitality</strong> — a personal language I want to evolve into an optimizer's first language.</li>
-
-  <li><strong>Monster</strong> — a custom web framework with compiled reactive signals.</li>
-
-</ul>
-
-
-
-<h2>Socials</h2>
-
-
-
-<p>
-
-  <a href="https://x.com/aaravdayal">X</a>
-
-  &ensp;
-
-  <a href="mailto:aarav@dayal.org">Email</a>
-
-  &ensp;
-
-  <a href="https://aaravdayal.com">Website</a>
-
-  &ensp;
-
-  <a href="https://discord.gg/KMa98gEar7">Discord</a>
-
-</p>
-
-
-
-<h2>Putting this to keep myself on pace</h2>
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aludayalu&theme=nightowl&hide_border=false" />
+![](https://pbs.twimg.com/profile_banners/1825505591542132736/1765637336/1500x500)
