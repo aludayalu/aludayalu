@@ -1,35 +1,22 @@
-### <div align="center">I'm Aarav, a hardcore full-stack developer. 🟢</div>  
-  
+### Aarav Dayal · Infrastructure Engineer
 
-- 🔭 I’m currently working on LTZ-Chain
-  
+I work on distributed systems, infrastructure solutions, compilers and editors.
 
-- 🌱 I’m currently learning about profile guided optimizations' implementations
-  
+As of now I am working on blueprints for infrastructure.
 
-- ❓ Ask me about anything related to Blockchains, Optimizations or compilers  
-  
+I personally believe that infrastructure should be abstractable and composable in really powerful ways.
+
+#### I have previously worked on
+
+1. LTZ-Chain - high performance blockchain solution.
+2. Vitality - A personal language I want to evolve into an optimizer's first language.
+3. Monster - A custom web framework with compiled reactive signals.
+
+#### Socials
+
+[X](https://x.com/aaravdayal) &ensp; [Email](mailto:aarav@dayal.org) &ensp; [Discord](https://discord.gg/KMa98gEar7)
 
 
-- ⚡ Fun fact: I end up talking about optimizations all the time   
-  
+#### Putting this to keep myself on pace
 
-<br/>
-
-# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aludayalu&theme=nightowl&hide_border=false)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aludayalu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Whenever i find a good feature
-![](https://github.com/aludayalu/aludayalu/blob/main/blockchain-youre-going.gif)
-
----
-[![](https://visitcount.itsvg.in/api?id=aludayalu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
