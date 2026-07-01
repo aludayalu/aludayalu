@@ -23,5 +23,3 @@ I personally believe that infrastructure should be abstractable and composable i
 #### Putting this to keep myself on pace
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aludayalu&theme=nightowl&hide_border=false)
-
-![](https://pbs.twimg.com/profile_banners/1825505591542132736/1765637336/1500x500)
